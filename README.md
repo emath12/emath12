@@ -1,6 +1,6 @@
 ### Hey! 👋
 
 My name is Ethan Mathieu. I'm a Senior at Yale studying Computer and Data Science. I'm passionate about data-driven software that helps uncover interesting trends and creating applications that provide meaningful use to users.
-- Currently building: ymeets (React.js + Firebase) with the Yale Computer Society.
+- Currently building: ymeets (React.js + Firebase) with the @YaleComputeSociety
 - Currently reading: DDIA
 - Reach me at my email : ethan.mathieu@yale.edu
